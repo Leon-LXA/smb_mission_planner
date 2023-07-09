@@ -25,3 +25,17 @@ twist_mission:
     lin_vel: 1
     ang_vel: 1
     time: 5
+
+test_mission: 
+  waypoint_1: 
+    x_m: 10
+    y_m: 0 
+    yaw_rad: 0
+  waypoint_2: 
+    x_m: 0 
+    y_m: 10 
+    yaw_rad: 0 
+  twist_1: 
+    lin_vel: 0 
+    ang_vel: 1
+    time: 3
