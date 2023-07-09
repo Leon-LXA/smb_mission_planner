@@ -15,13 +15,17 @@ waypoint_mission:
 twist_mission:
   twist_1:
     lin_vel: 1
-    ang_vel: 1
+    ang_vel: 0
     time: 5
   twist_2:
-    lin_vel: 1
-    ang_vel: 1
-    time: 5
+    lin_vel: 0
+    ang_vel: 1.57
+    time: 2
   twist_3:
     lin_vel: 1
-    ang_vel: 1
+    ang_vel: 0
     time: 5
+  twist_4:
+    lin_vel: 0
+    ang_vel: 1.57
+    time: 2
